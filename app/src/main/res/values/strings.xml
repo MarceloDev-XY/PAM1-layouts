@@ -1,4 +1,5 @@
     <resources>
+        <string name="app_name">Destino</string>
     <string name="destino">Destino</string>
         <string name="chegada">Data de chegada</string>
         <string name="selecione">Selecione </string>
